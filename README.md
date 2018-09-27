@@ -12,3 +12,6 @@ To make this application, we're going to need to cover the following topics:
   * HTML - The information represented on the page.
   * CSS - The style or look of the information.
   * Javacsript - The programming language needed to add the necessary behavior (or interaction) to the webpage.
+
+### SCREENSHOOT
+![quote-app](https://user-images.githubusercontent.com/38943439/46164689-18baf500-c2a8-11e8-9922-5d33a91d6cc0.png)
